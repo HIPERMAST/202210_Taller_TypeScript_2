@@ -1,1 +1,1 @@
-# 202210_Taller_TypeScript_2
+Autor: Daniel Andrés Bernal Cáceres
